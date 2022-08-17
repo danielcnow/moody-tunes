@@ -11,7 +11,7 @@ function cToF (celciusValue) {
     var f = cTemp * 9 / 5 + 32;
     let realTemp = f.toFixed(2);
     console.log("this is " + realTemp);
-    return f;
+    return Math.floor(f*100)/100;
 }
 
 let weather = {
@@ -49,7 +49,7 @@ let weather = {
     }
 };
 
-document.querySelector(".search button").addEventListener("click", function () {
+document.querySelector(".searchButton").addEventListener("click", function () {
     weather.search();
 });
 
