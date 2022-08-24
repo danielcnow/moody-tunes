@@ -13,7 +13,7 @@ Group roles
   - Clark Hou: Javascript/Weather API/Youtube API/Html/Css
   - David Miller: Css
   - John Sheridan: Presentation/Github
-  - Daniel Chow
+  - Daniel Chow: CSS Framework and Copy
 
 Link To Projects Deployed Address
 
