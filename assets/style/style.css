@@ -45,7 +45,7 @@ footer {
 }
 
 .searchButton{
-    width:40px !important;
+    width:50px !important;
 }
 
 #artistVideo {
@@ -149,23 +149,3 @@ h1.temp {
     }
 }
 
-#youtubeContainerTitle {
-    padding: 1px;
-    margin-top: 10px;
-    color: rgb(91, 91, 91);
-    text-align: center;
-    font-family: forma-djr-text, sans-serif;
-    font-size: 1.8rem;
-    font-weight: bold;
-    width: 100%;
-}
-
-#videoContainer {
-    width: 640px;
-    height: 360px;
-}
-
-#embedVideoOne {
-    width: 640px;
-    height: 360px;
-}
